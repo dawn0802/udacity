@@ -13,6 +13,7 @@
 
 .animal-card {
     border: 1px solid #AAAAAA;
+    margin: 10px;
     padding: 20px 10px;
     width: 310px;
     -webkit-box-shadow: 10px 10px 5px #AAAAAA;

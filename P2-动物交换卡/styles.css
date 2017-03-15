@@ -12,13 +12,13 @@
 }
 
 .animal-card {
-    border: 1px solid #AAAAAA;
+    border: 1px solid #aaaaaa;
     margin: 10px;
     padding: 20px 10px;
     width: 310px;
-    -webkit-box-shadow: 10px 10px 5px #AAAAAA;
-    -moz-box-shadow: 10px 10px 5px #AAAAAA;
-    box-shadow: 10px 10px 5px #AAAAAA;
+    -webkit-box-shadow: 10px 10px 5px #aaaaaa;
+    -moz-box-shadow: 10px 10px 5px #aaaaaa;
+    box-shadow: 10px 10px 5px #aaaaaa;
 }
 
 .animal-card > h3 {
@@ -28,12 +28,12 @@
 .animal-card > img {
     width: 300px;
     height: 200px;
-    border: 1px solid #AAAAAA;
+    border: 1px solid #aaaaaa;
     margin-bottom: 15px;
 }
 
 .animal-card-content {
-    border: 1px solid #AAAAAA;
+    border: 1px solid #aaaaaa;
     padding: 15px 10px;
     text-align: left;
     width: 280px;
